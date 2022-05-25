@@ -1,0 +1,26 @@
+﻿ids,labels,parents
+Medical,Medical,
+Animal Feed,Animal Feed,
+Beauty,Beauty,
+Food,Food,
+Plastic alternative,Plastic Alternative,
+Growing Muscles with Seaweed,Growing Muscles with Seaweed,
+Textiles,Textiles,
+Medical-Print Human Tissue,Print Human Tissue,Medical 
+Animal Feed- Reduce Cow Methane,Reduce Cow Methane,Animal Feed
+Beauty-Pharmaceutical Products,Pharmaceutical Products,Beauty
+Beauty-Seaweed Bath,Seaweed Bath,Beauty
+Food-Micro Nutrients,Micro Nutrients,Food
+Food-Common Edible ,Common Edible ,Food
+Foltate,Foltate,Food-Micro Nutrients
+Calcium,Calcium,Food-Micro Nutrients
+Magnesium,Magnesium,Food-Micro Nutrients
+Zinc,Zinc,Food-Micro Nutrients
+Iron,Iron,Food-Micro Nutrients
+Selenium,Selenium,Food-Micro Nutrients
+Nori,Nori,Food-Common Edible 
+Kombu,Kombu,Food-Common Edible 
+Wakame,Wakame,Food-Common Edible 
+Ogonori,Ogonori,Food-Common Edible 
+Umibudo,Umibudo,Food-Common Edible 
+Hijiki,Hijiki,Food-Common Edible 
